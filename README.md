@@ -179,6 +179,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | Szolgáltatás | Leírás | Ár | Link |
 |--------------|--------|-----|------|
 | **E-Cégjegyzék** | Hivatalos, ingyenes cégadatok | Ingyenes | [e-cegjegyzek.hu](https://www.e-cegjegyzek.hu/) |
+| **e-Beszámoló** | Cégek pénzügyi beszámolói, mérlegek (Igazágügyi Minisztérium) | Ingyenes | [e-beszamolo.im.gov.hu](https://e-beszamolo.im.gov.hu/) |
 | **Céginformációs Szolgálat** | Hiteles cégkivonatok | Fizetős | [ceginformaciosszolgalat.kormany.hu](https://ceginformaciosszolgalat.kormany.hu/) |
 | **Opten** | Részletes céginformációk, kapcsolati hálók | Részben fizetős | [opten.hu](https://www.opten.hu/) |
 | **Nemzeti Cégtár** | Vizualizált kapcsolati hálók | Részben fizetős | [nemzeticegtar.hu](https://www.nemzeticegtar.hu/) |
@@ -198,6 +199,8 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
+| **NAV Adóalanyok lekérdezése** | ÁFA és adózói adatbázis | [nav.gov.hu/adatbazisok](https://nav.gov.hu/adatbazisok/adatbleker) |
+| **NAV Adósságlista** | Végrehajtás alatti adózók, hátralékosok | [nav.gov.hu/adoslista](https://nav.gov.hu/adatbazisok/adoslista) |
 | **NAV Köztartozásmentes adózók** | Rendezett adózók listája | [nav.gov.hu](https://nav.gov.hu/nav/adatbazisok/koztartozasmentes) |
 | **MNB Felügyeleti adatbázis** | Engedélyezett pénzügyi szolgáltatók | [mnb.hu](https://www.mnb.hu/felugyelet/engedelyezes-es-intezmenyfelugyeles/intezmenykereső) |
 | **EU VAT Validation** | EU ÁFA szám ellenőrzés | [ec.europa.eu/vies](https://ec.europa.eu/taxation_customs/vies/) |
@@ -299,6 +302,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **e-Közmű** | Közművezetékek térképe | Ingyenes | [e-epites.hu/ekozmu](https://www.e-epites.hu/e-kozmu) |
 | **MePAR** | Mezőgazdasági parcella azonosító | Ingyenes | [mepar.hu](https://www.mepar.hu/) |
 | **LECHNER Térkép** | Szakági nyilvántartások | Ingyenes | [lfrinfo.hu](https://www.lfrinfo.hu/) |
+| **Fentrol.hu** | Légifotó Archívum (1950-1990 közötti légifotók) | Ingyenes | [fentrol.hu](https://www.fentrol.hu/) |
 
 ### Térképek és műholdas felvételek
 
