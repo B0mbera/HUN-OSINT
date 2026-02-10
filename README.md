@@ -198,9 +198,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **NAV ÁFA alanyok** | ÁFA regisztrált adózók | [nav.gov.hu](https://nav.gov.hu/nav/adatbazisok/afaalanyok) |
 | **NAV Köztartozásmentes adózók** | Rendezett adózók listája | [nav.gov.hu](https://nav.gov.hu/nav/adatbazisok/koztartozasmentes) |
-| **NAV Adósságlista** | Végrehajtás alatti adózók | [nav.gov.hu](https://nav.gov.hu/nav/adatbazisok/adosok) |
 | **MNB Felügyeleti adatbázis** | Engedélyezett pénzügyi szolgáltatók | [mnb.hu](https://www.mnb.hu/felugyelet/engedelyezes-es-intezmenyfelugyeles/intezmenykereső) |
 | **EU VAT Validation** | EU ÁFA szám ellenőrzés | [ec.europa.eu/vies](https://ec.europa.eu/taxation_customs/vies/) |
 
