@@ -4,7 +4,7 @@
 
 Magyar kiberbiztonsági szakemberek, etikus hackerek, oknyomozó újságírók és nyomozók számára készült átfogó OSINT forrásgyűjtemény.
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202026-blue.svg)
 
@@ -618,7 +618,9 @@ Szívesen fogadom a hozzájárulásokat! Kérlek, olvasd el a [CONTRIBUTING.md](
 
 ## 📜 Licenc
 
-Ez a projekt [MIT License](LICENSE) alatt áll.
+Ez a gyűjtemény a [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) licensz alatt áll: szabadon felhasználható, másolható és módosítható, ha megjelölöd a forrást (HUN-OSINT, link a repóra).
+
+A licensz a gyűjtemény szövegére és összeállítására vonatkozik; a hivatkozott weboldalak és eszközök saját licenszfeltételekkel rendelkeznek.
 
 ---
 
