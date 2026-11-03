@@ -408,6 +408,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 ## 🛠️ OSINT eszközök
 
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Nyílt forráskódú, önállóan működő MI-alapú behatolástesztelő platform (self-hosted, MCP-szerver) webes, API-, Active Directory- és Kubernetes-célpontok automatizált felderítésére és biztonsági vizsgálatára; beépített Privacy Gateway adatvédelemhez.
 ### Automatizált OSINT eszközök
 
 | Eszköz | Leírás | Link |
