@@ -6,7 +6,7 @@ Magyar kiberbiztonsági szakemberek, etikus hackerek, oknyomozó újságírók �
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-Febru%C3%A1r%202026-blue.svg)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202026-blue.svg)
 
 ---
 
@@ -125,7 +125,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 - [User-Agent Switcher](https://addons.mozilla.org/firefox/addon/uaswitcher/) - Böngésző identitás váltás
 - [Exif Viewer](https://addons.mozilla.org/firefox/addon/exif-viewer/) - EXIF adatok megtekintése
 - [Wayback Machine](https://addons.mozilla.org/firefox/addon/wayback-machine_new/) - Archivált oldalak
-- [RevEye](https://chrome.google.com/webstore/detail/reveye-reverse-image-sear) - Fordított képkeresés
+- [RevEye](https://chromewebstore.google.com/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf) - Fordított képkeresés
 
 ---
 
@@ -159,7 +159,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 |-----------|--------|------|
 | **Nemzeti Kibervédelmi Intézet (NKI)** | Kiberbiztonsági incidenskezelés, riasztások | [nki.gov.hu](https://nki.gov.hu/) |
 | **GovCERT Hungary** | Kormányzati CERT | [nki.gov.hu](https://nki.gov.hu/) |
-| **NIIF CSIRT** | Akadémiai hálózat biztonsága | [niif.hu](https://niif.hu/) |
+| **KIFÜ (NIIF) CSIRT** | Akadémiai hálózat (HBONE) biztonsága | [kifu.gov.hu](https://kifu.gov.hu/) |
 
 ### EU-s bűnüldöző szervek
 
@@ -178,19 +178,17 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Ár | Link |
 |--------------|--------|-----|------|
-| **E-Cégjegyzék** | Hivatalos, ingyenes cégadatok | Ingyenes | [e-cegjegyzek.hu](https://www.e-cegjegyzek.hu/) |
-| **e-Beszámoló** | Cégek pénzügyi beszámolói, mérlegek (Igazágügyi Minisztérium) | Ingyenes | [e-beszamolo.im.gov.hu](https://e-beszamolo.im.gov.hu/) |
-| **Céginformációs Szolgálat** | Hiteles cégkivonatok | Fizetős | [ceginformaciosszolgalat.kormany.hu](https://ceginformaciosszolgalat.kormany.hu/) |
+| **E-Cégjegyzék** | Hivatalos cégadatok (Céginformációs Szolgálat); alapadatok ingyenesek, hiteles cégkivonat fizetős | Részben fizetős | [e-cegjegyzek.hu](https://www.e-cegjegyzek.hu/) |
+| **e-Beszámoló** | Cégek pénzügyi beszámolói, mérlegek (Igazságügyi Minisztérium) | Ingyenes | [e-beszamolo.im.gov.hu](https://e-beszamolo.im.gov.hu/) |
 | **Opten** | Részletes céginformációk, kapcsolati hálók | Részben fizetős | [opten.hu](https://www.opten.hu/) |
 | **Nemzeti Cégtár** | Vizualizált kapcsolati hálók | Részben fizetős | [nemzeticegtar.hu](https://www.nemzeticegtar.hu/) |
-| **HVG Cégadatbázis** | Cégkeresés és elemzés | Ingyenes | [cegadatbazis.hvg.hu](https://cegadatbazis.hvg.hu/) |
 | **Cégtaláló** | Egyszerű cégkeresés | Ingyenes | [cegtalalo.hu](https://www.cegtalalo.hu/) |
 
 ### EU-s cégkereső
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **E-Justice Business Registers** | EU tagállamok cégnyilvántartásai | [e-justice.europa.eu](https://e-justice.europa.eu/content_business_registers_in_member_states-106-hu.do) |
+| **E-Justice Business Registers** | EU tagállamok cégnyilvántartásai | [e-justice.europa.eu](https://e-justice.europa.eu/topics/registers-business-insolvency-land/business-registers-search-company-eu/general-information-find-company_hu) |
 | **OpenCorporates** | Globális céginformációk | [opencorporates.com](https://opencorporates.com/) |
 | **North Data** | Európai cégadatok | [northdata.com](https://www.northdata.com/) |
 | **LEI Search** | Legal Entity Identifier keresés | [gleif.org](https://search.gleif.org/) |
@@ -199,10 +197,10 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **NAV Adóalanyok lekérdezése** | ÁFA és adózói adatbázis | [nav.gov.hu/adatbazisok](https://nav.gov.hu/adatbazisok/adatbleker) |
+| **NAV Adatbázisok** | Adózói adatbázisok gyűjtőoldala (adószám, ÁFA, listák) | [nav.gov.hu/adatbazisok](https://nav.gov.hu/adatbazisok) |
 | **NAV Adósságlista** | Végrehajtás alatti adózók, hátralékosok | [nav.gov.hu/adoslista](https://nav.gov.hu/adatbazisok/adoslista) |
-| **NAV Köztartozásmentes adózók** | Rendezett adózók listája | [nav.gov.hu](https://nav.gov.hu/nav/adatbazisok/koztartozasmentes) |
-| **MNB Felügyeleti adatbázis** | Engedélyezett pénzügyi szolgáltatók | [mnb.hu](https://www.mnb.hu/felugyelet/engedelyezes-es-intezmenyfelugyeles/intezmenykereső) |
+| **NAV Köztartozásmentes adózók (KOMA)** | Rendezett adózók listája (adószám/név alapján) | [nav.gov.hu](https://nav.gov.hu/adatbazisok/koztartozasmentes/egyszeru_lekerdezes) |
+| **MNB Intézménykereső** | Engedélyezett pénzügyi szolgáltatók, piacfelügyeleti figyelmeztetések | [intezmenykereso.mnb.hu](https://intezmenykereso.mnb.hu/) |
 | **EU VAT Validation** | EU ÁFA szám ellenőrzés | [ec.europa.eu/vies](https://ec.europa.eu/taxation_customs/vies/) |
 
 ---
@@ -213,7 +211,6 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **Telekom Tudakozó** | Magyar Telekom telefonkönyv | [tudakozo.telekom.hu](https://tudakozo.telekom.hu/) |
 | **Telefonkönyv.hu** | Online telefonkönyv | [telefonkonyv.hu](https://telefonkonyv.hu/) |
 | **Arany Oldalak** | Céges telefonkönyv | [aranyoldalak.hu](https://www.aranyoldalak.hu/) |
 
@@ -246,7 +243,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **Badoo** | Népszerű Kelet-Európában | [badoo.com/hu](https://badoo.com/hu/) |
 | **Tinder** | Globális, Magyarországon is népszerű | [tinder.com](https://tinder.com/) |
 | **Elittárs** | Felsőfokú végzettségűeknek | [elittars.hu](https://www.elittars.hu/) |
-| **Párkeresés.hu** | Magyar társkereső | [parkereses.hu](https://www.parkereses.hu/) |
+| **Párom.hu** | Magyar társkereső (2003 óta) | [parom.hu](https://www.parom.hu/) |
 
 ### Álláskereső portálok
 
@@ -254,9 +251,8 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 |--------------|--------|------|
 | **Profession.hu** | Legnagyobb magyar állásportál | [profession.hu](https://www.profession.hu/) |
 | **LinkedIn Jobs** | Szűrés: Hungary | [linkedin.com/jobs](https://www.linkedin.com/jobs/) |
-| **Közigállás** | Közszféra állások archívuma | [kozigallas.gov.hu](https://kozigallas.gov.hu/) |
+| **KÖZSZOLGÁLLÁS** | Közszolgálati állásportál (a korábbi Közigállás utódja) | [kozszolgallas.ksz.gov.hu](https://kozszolgallas.ksz.gov.hu/) |
 | **Indeed Magyarország** | Globális álláskereső | [hu.indeed.com](https://hu.indeed.com/) |
-| **Helloworkforce** | IT és tech állások | [helloworkforce.com](https://www.helloworkforce.com/) |
 | **NoFluffJobs** | IT állások | [nofluffjobs.com/hu](https://nofluffjobs.com/hu) |
 | **Jooble** | Állásaggregátor | [hu.jooble.org](https://hu.jooble.org/) |
 
@@ -268,9 +264,8 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Hozzáférés | Link |
 |--------------|--------|------------|------|
-| **Jármű Szolgáltatási Platform (JSZP)** | Rendszám alapján: műszaki adatok, fotók, km-óra állások, előélet | Ügyfélkapu | [magyarorszag.hu/jszp](https://magyarorszag.hu/jszp_szuf) |
-| **MABISZ Kártörténet** | Biztosítási kárelőzmény, KGFB fedezet ellenőrzés | Ingyenes | [mabisz.hu](https://mabisz.hu/) |
-| **TotalCar Autóértékelés** | Használt autók piaci értéke | Ingyenes | [totalcar.hu](https://totalcar.hu/autos-ertek/) |
+| **Jármű Szolgáltatási Platform (JSZP)** | Rendszám alapján: műszaki adatok, fotók, km-óra állások, előélet | Ügyfélkapu | [magyarorszag.hu](https://www.magyarorszag.hu/szuf_ugyleiras?_n=%2Cadatigenyles_a_jarmu_szolgaltatasi_platformon&id=37a0cfef-a962-4e02-80d8-4671b80e8c73) |
+| **Totalcar TotálKár** | Hazai biztosítói kártörténet alvázszám (VIN) alapján | Ingyenes keresés, találat fizetős | [totalcar.hu](https://totalcar.hu/) |
 | **Carvertical** | Jármű-előélet ellenőrzés (EU) | Fizetős | [carvertical.com/hu](https://www.carvertical.com/hu) |
 
 ### Közlekedési kamerák és forgalom
@@ -279,8 +274,8 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 |--------------|--------|------|
 | **Útinform** | Magyar közúti helyzet | [utinform.hu](https://www.utinform.hu/) |
 | **Waze Live Map** | Valós idejű forgalom | [waze.com/hu/live-map](https://www.waze.com/hu/live-map) |
-| **BKK Futár** | Budapest közlekedés | [futar.bkk.hu](https://futar.bkk.hu/) |
-| **MÁV Menetrend** | Vasúti közlekedés | [mavcsoport.hu](https://jegy.mav.hu/) |
+| **BKK FUTÁR / BudapestGO** | Budapest közlekedés, valós idejű járatkövetés | [futar.bkk.hu](https://futar.bkk.hu/) |
+| **MÁV Menetrend** | Vasúti közlekedés | [jegy.mav.hu](https://jegy.mav.hu/) |
 
 ### Légi forgalom
 
@@ -301,7 +296,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **Földhivatal Online** | Tulajdoni lap lekérdezés | Fizetős (Ügyfélkapu) | [foldhivatal.hu](https://www.foldhivatal.hu/) |
 | **e-Közmű** | Közművezetékek térképe | Ingyenes | [e-epites.hu/ekozmu](https://www.e-epites.hu/e-kozmu) |
 | **MePAR** | Mezőgazdasági parcella azonosító | Ingyenes | [mepar.hu](https://www.mepar.hu/) |
-| **LECHNER Térkép** | Szakági nyilvántartások | Ingyenes | [lfrinfo.hu](https://www.lfrinfo.hu/) |
+| **Lechner Tudásközpont** | Területi információs rendszerek (TEIR, E-TÉR, e-Közmű üzemeltető) | Részben ingyenes | [lechnerkozpont.hu](https://lechnerkozpont.hu/) |
 | **Fentrol.hu** | Légifotó Archívum (1950-1990 közötti légifotók) | Ingyenes | [fentrol.hu](https://www.fentrol.hu/) |
 
 ### Térképek és műholdas felvételek
@@ -312,14 +307,13 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **OpenStreetMap** | Nyílt térképadatok | [openstreetmap.org](https://www.openstreetmap.org/) |
 | **Google Earth Pro** | Műholdas felvételek, időgép | [earth.google.com](https://earth.google.com/) |
 | **Bing Maps** | Bird's Eye nézet | [bing.com/maps](https://www.bing.com/maps) |
-| **FÖMI Térképtár** | Történeti térképek | [mapire.eu](https://mapire.eu/hu/) |
+| **MAPIRE** | Történeti térképek (katonai felmérések, kataszteri térképek) | [mapire.eu](https://mapire.eu/hu/) |
 
 ### Webkamerák
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
 | **Időkép Webkamerák** | Élő kamerák országszerte | [idokep.hu/webkamera](https://www.idokep.hu/webkamera) |
-| **Budapest Cameras** | Budapest forgalmi kamerák | [bfrk.hu](https://bfrk.hu/) |
 
 ---
 
@@ -329,10 +323,10 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **Bírósági Határozatok Gyűjteménye (BH)** | Anonimizált ítéletek keresése | [birosag.hu/birosagi-hatarozatok](https://birosag.hu/birosagi-hatarozatok-gyujtemenye) |
-| **Tárgyalási jegyzék** | Bírósági tárgyalások listája | [birosag.hu/targyalasi-jegyzek](https://birosag.hu/targyalasi-jegyzek) |
+| **Bírósági Határozatok Gyűjteménye (BH)** | Anonimizált ítéletek keresése | [eakta.birosag.hu](https://eakta.birosag.hu/anonimizalt-hatarozatok) |
+| **Tárgyalási jegyzék** | Heti országos tárgyalási jegyzék, közérdeklődésre számot tartó ügyek | [birosag.hu/kozlemenyek](https://birosag.hu/kozlemenyek) |
 | **Cégbíróság** | Cégbírósági eljárások | [birosag.hu](https://birosag.hu/) |
-| **Felszámolási Névjegyzék** | Csődbe ment cégek | [cegkozlony.hu](https://www.cegkozlony.hu/) |
+| **Felszámolási közlemények** | Csőd- és felszámolási eljárások (Cégközlöny) | [e-cegkozlony.gov.hu](https://e-cegkozlony.gov.hu/) |
 
 ### Jogszabályok és közlönyök
 
@@ -341,13 +335,13 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **Magyar Közlöny** | Hivatalos jogszabályok, kinevezések | [magyarkozlony.hu](https://magyarkozlony.hu/) |
 | **Nemzeti Jogszabálytár** | Hatályos jogszabályok | [njt.hu](https://njt.hu/) |
 | **EUR-Lex** | EU jogszabályok | [eur-lex.europa.eu](https://eur-lex.europa.eu/homepage.html?locale=hu) |
-| **Cégközlöny** | Cégbírósági bejegyzések | [cegkozlony.hu](https://www.cegkozlony.hu/) |
+| **Cégközlöny** | Cégbírósági bejegyzések (ingyenesen olvasható) | [e-cegkozlony.gov.hu](https://e-cegkozlony.gov.hu/) |
 
 ### Egyéb nyilvántartások
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **Civil szervezetek névjegyzéke** | Alapítványok, egyesületek | [birosag.hu](https://birosag.hu/civil-szervezetek-nevjegyzeke) |
+| **Civil szervezetek névjegyzéke** | Alapítványok, egyesületek, éves beszámolóik | [birosag.hu](https://birosag.hu/kozzetetel-kereso) |
 | **Végrehajtói Kamara** | Végrehajtási ügyek | [mbvk.hu](https://www.mbvk.hu/) |
 | **Ügyvédi Kamara** | Ügyvédek keresése | [magyarugyvedikamara.hu](https://www.magyarugyvedikamara.hu/) |
 
@@ -361,9 +355,9 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 |--------------|--------|-----|------|
 | **Arcanum Digitális Tudománytár (ADT)** | Újságok, folyóiratok, könyvek archívuma | Fizetős | [adt.arcanum.com](https://adt.arcanum.com/) |
 | **Hungaricana** | Közgyűjtemények portálja | Ingyenes | [hungaricana.hu](https://hungaricana.hu/) |
-| **Magyar Nemzeti Levéltár** | Levéltári anyagok | Ingyenes | [mnl.gov.hu](https://mnl.gov.hu/adatbazisokonline) |
+| **Magyar Nemzeti Levéltár – Adatbázisok Online** | Levéltári adatbázisok, anyakönyvek | Ingyenes | [adatbazisokonline.mnl.gov.hu](https://adatbazisokonline.mnl.gov.hu/) |
 | **Fortepan** | Közösségi fotóarchívum | Ingyenes | [fortepan.hu](https://fortepan.hu/) |
-| **MTI Archívum** | Magyar Távirati Iroda hírek | Részben ingyenes | [archiv.mti.hu](https://archiv.mti.hu/) |
+| **MTI Nemzeti Archívum** | MTI hírek 1988-tól (külön oldalak: 1920–1944, 1945–1951, 1956) | Részben ingyenes | [archiv1988-2005.mti.hu](https://archiv1988-2005.mti.hu/) |
 | **OSZK Digitális Könyvtár** | Országos Széchényi Könyvtár | Ingyenes | [mek.oszk.hu](https://mek.oszk.hu/) |
 
 ### Webarchívumok
@@ -372,7 +366,6 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 |--------------|--------|------|
 | **Wayback Machine** | Archivált weboldalak | [web.archive.org](https://web.archive.org/) |
 | **Archive.today** | Weboldal pillanatképek | [archive.today](https://archive.today/) |
-| **Google Cache** | Google gyorsítótár | `cache:URL` keresés |
 
 ### Hírportálok (oknyomozás)
 
@@ -396,7 +389,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **Have I Been Pwned** | Email ellenőrzés szivárgásokban | [haveibeenpwned.com](https://haveibeenpwned.com/) |
 | **DeHashed** | Felhasználónév/email/jelszó keresés, breach adatok | [dehashed.com](https://dehashed.com/) |
 | **Intelligence X** | Darknet, szivárgott adatok, történeti rekordok keresése | [intelx.io](https://intelx.io/) |
-| **Hudson Rock** | Infostealer malware ellenőrzés | [hudsonrock.com](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) |
+| **Hudson Rock** | Infostealer malware ellenőrzés | [hudsonrock.com](https://www.hudsonrock.com/free-tools) |
 | **LeakCheck** | Adatszivárgás-kereső | [leakcheck.io](https://leakcheck.io/) |
 | **BreachDirectory** | Credential leak validáció | [breachdirectory.org](https://breachdirectory.org/) |
 | **h8mail** | Breach adatok és jelszavak keresése (CLI) | [GitHub](https://github.com/khast3x/h8mail) |
@@ -407,7 +400,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | Eszköz | Leírás | Link |
 |--------|--------|------|
 | **Tor Browser** | .onion oldalak elérése | [torproject.org](https://www.torproject.org/) |
-| **Tails OS** | Anonim operációs rendszer | [tails.boum.org](https://tails.boum.org/) |
+| **Tails OS** | Anonim operációs rendszer | [tails.net](https://tails.net/) |
 
 > ⚠️ **Figyelmeztetés:** A dark web illegális tartalmakat is tartalmaz. Csak legális célokra használd!
 
@@ -420,7 +413,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | Eszköz | Leírás | Link |
 |--------|--------|------|
 | **Maltego** | Kapcsolati hálók vizualizálása, link analysis | [maltego.com](https://www.maltego.com/) |
-| **SpiderFoot** | Automatizált OSINT adatgyűjtés, breach és darknet keresés | [spiderfoot.net](https://www.spiderfoot.net/) |
+| **SpiderFoot** | Automatizált OSINT adatgyűjtés, breach és darknet keresés | [GitHub](https://github.com/smicallef/spiderfoot) |
 | **theHarvester** | E-mail és domain felderítés | [GitHub](https://github.com/laramies/theHarvester) |
 | **Recon-ng** | Web felderítési keretrendszer | [GitHub](https://github.com/lanmaster53/recon-ng) |
 | **Photon** | Gyors web crawler | [GitHub](https://github.com/s0md3v/Photon) |
@@ -503,11 +496,11 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **BuiltWith** | Weboldal technológia elemzés | [builtwith.com](https://builtwith.com/) |
 | **URLScan** | URL elemzés, phishing és malware detektálás | [urlscan.io](https://urlscan.io/) |
 | **Shodan** | IoT eszközök, nyitott portok keresése | [shodan.io](https://www.shodan.io/) |
-| **Censys** | Domain, IP, SSL certificate keresés | [censys.io](https://censys.io/) |
+| **Censys** | Domain, IP, SSL certificate keresés | [censys.com](https://censys.com/) |
 | **ZoomEye** | Eszközök, protokollok, CVE-k keresése | [zoomeye.org](https://www.zoomeye.org/) |
 | **FOFA** | Globális eszköz és port fingerprinting | [fofa.info](https://fofa.info/) |
 | **OWASP Amass** | DNS felderítés, subdomain keresés | [GitHub](https://github.com/owasp-amass/amass) |
-| **Web-Check** | All-in-one weboldal elemzés (30+ ellenőrzés) | [web-check.as93.net](https://web-check.as93.net/) |
+| **Web-Check** | All-in-one weboldal elemzés (30+ ellenőrzés) | [web-check.xyz](https://web-check.xyz/) |
 | **ChangeDetection.io** | Weboldal-változás figyelés, nyílt forráskódú | [GitHub](https://github.com/dgtlmoon/changedetection.io) |
 
 ### Fenyegetés-felderítés (Threat Intelligence)
@@ -517,7 +510,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **VirusTotal** | Fájl, URL, IP ellenőrzés 70+ AV motorral | [virustotal.com](https://www.virustotal.com/) |
 | **ANY.RUN** | Interaktív malware sandbox | [any.run](https://any.run/) |
 | **Hybrid Analysis** | Malware elemzés és viselkedés profilozás | [hybrid-analysis.com](https://www.hybrid-analysis.com/) |
-| **Onyphe** | Cyber threat intelligence, dark web monitoring | [onyphe.io](https://www.onyphe.io/) |
+| **Onyphe** | Internetes eszköz- és kitettség-kereső, threat intelligence | [onyphe.io](https://www.onyphe.io/) |
 | **OnionScan** | .onion hidden service elemzés | [GitHub](https://github.com/s-rah/onionscan) |
 
 ---
@@ -539,7 +532,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **EU Most Wanted** | Európai körözési lista (ENFAST) | [eumostwanted.eu](https://eumostwanted.eu/) |
 | **Interpol Red Notices** | Nemzetközi körözések | [interpol.int](https://www.interpol.int/How-we-work/Notices/Red-Notices) |
 | **FBI Most Wanted** | FBI körözési lista | [fbi.gov/wanted](https://www.fbi.gov/wanted) |
-| **NamUs** | USA eltűnt személyek | [namus.nij.ojp.gov](https://www.namus.gov/) |
+| **NamUs** | USA eltűnt személyek | [namus.gov](https://www.namus.gov/) |
 
 ---
 
@@ -549,7 +542,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **OpenData.gov.hu** | Magyar nyílt adatok | [opendata.gov.hu](https://opendata.gov.hu/) |
+| **Nemzeti Közadatportál** | Magyar nyílt közadatok, közpénz-felhasználás | [kozadatportal.hu](https://kozadatportal.hu/) |
 | **KSH** | Központi Statisztikai Hivatal | [ksh.hu](https://www.ksh.hu/) |
 | **Közbeszerzési Hatóság** | Közbeszerzési adatok | [kozbeszerzes.hu](https://www.kozbeszerzes.hu/) |
 | **EKR** | Elektronikus Közbeszerzési Rendszer | [ekr.gov.hu](https://ekr.gov.hu/) |
@@ -558,7 +551,7 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 
 | Szolgáltatás | Leírás | Link |
 |--------------|--------|------|
-| **Vagyonnyilatkozat-kereső** | Képviselők vagyonnyilatkozatai | [parlament.hu](https://www.parlament.hu/kepviselok/vagyonnyilatkozatok) |
+| **Vagyonnyilatkozat-kereső** | Országgyűlési képviselők nyilvános vagyonnyilatkozatai | [vagyonnyilatkozat-pub.parlament.hu](https://vagyonnyilatkozat-pub.parlament.hu/) |
 | **K-Monitor Adat** | Közpénz-adatbázis | [k-monitor.hu](https://adatbazis.k-monitor.hu/) |
 | **Red Flags** | Közbeszerzési anomália-jelző (K-Monitor, adatok: 2012–2023) | [redflags.eu](https://www.redflags.eu/) |
 
@@ -579,12 +572,11 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | Forrás | Leírás | Link |
 |--------|--------|------|
 | **HUN-OSINT Start.me** | Átfogó magyar OSINT dashboard | [start.me/p/kxGLzd/hun-osint](https://start.me/p/kxGLzd/hun-osint) |
-| **HU OSINT Hub** | OSINT eszközök kategorizálva (HackersUnskool) | [osint.hackersunskool.com](https://osint.hackersunskool.com/) |
 | **OSINT Framework** | Klasszikus OSINT eszköz-keretrendszer | [osintframework.com](https://osintframework.com/) |
 | **Cylect** | AI OSINT keresőmotor (domain, email, username, IP, crypto, sandbox) | [cylect.io](https://cylect.io/) |
 | **Awesome OSINT** | GitHub OSINT gyűjtemény | [GitHub](https://github.com/jivoi/awesome-osint) |
 | **IntelTechniques** | Michael Bazzell OSINT eszközök | [inteltechniques.com](https://inteltechniques.com/tools/) |
-| **Bellingcat Toolkit** | Oknyomozó újságírás eszközei | [bellingcat.com](https://www.bellingcat.com/category/resources/) |
+| **Bellingcat Toolkit** | Oknyomozó újságírás eszközei | [bellingcat.gitbook.io](https://bellingcat.gitbook.io/toolkit) |
 | **CybDetective OSINT Map** | Interaktív OSINT térkép országonként | [cybdetective.com](https://cybdetective.com/osintmap) |
 | **OSINT Dojo** | OSINT tanulási források | [osintdojo.com](https://www.osintdojo.com/) |
 
@@ -595,7 +587,6 @@ Ez a gyűjtemény a magyar és EU-s környezetre optimalizált OSINT (Open Sourc
 | **Trace Labs** | Eltűnt személyek keresése CTF-eken | [tracelabs.org](https://www.tracelabs.org/) |
 | **OSINT Curious** | OSINT podcast és közösség | [osintcurio.us](https://osintcurio.us/) |
 | **r/OSINT** | Reddit OSINT közösség | [reddit.com/r/OSINT](https://www.reddit.com/r/OSINT/) |
-| **OSINT.team** | OSINT eszközök és technikák | [osint.team](https://osint.team/) |
 
 ---
 
@@ -641,7 +632,7 @@ Ha hasznosnak találod ezt a gyűjteményt:
 
 ---
 
-**Utolsó frissítés:** 2026. február
+**Utolsó frissítés:** 2026. november
 
 **Készítette:** HUN-OSINT
 
